@@ -26,7 +26,6 @@
         android:layout_marginTop="16dp"
         android:fontFamily="casual"
         android:text="@string/happy_birthday_text"
-        android:textAppearance="@android:style/bl"
         android:textSize="34sp"
         android:textStyle="bold"
         app:layout_constraintStart_toStartOf="parent"
